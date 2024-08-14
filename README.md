@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 
 
 Meu nome é Ana Beatriz M.
 
@@ -6,7 +6,7 @@ Meu nome é Ana Beatriz M.
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 
 
 00001102415881sp@al.educacao.sp.gov.br
 
