@@ -12,4 +12,5 @@ paludettomarcelo@gmail.com
 
 @marcelopaludetto
 
-![descrição do GIF](link GIF do Tenor)
+![icegif-1396](https://github.com/user-attachments/assets/81ab886d-3549-4ae9-854b-72ec346a3942)
+
